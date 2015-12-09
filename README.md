@@ -3,7 +3,7 @@
 <ul>
   <li>telnet.py runs on the Yún computer</li>
   <li>Joy_Socket.py runs on the laptop</li>
-  <li>Joystick_Yun.ino runs on the mu (edit this as a C++ file)</li>
+  <li>Joystick_Yun.ino runs on the uc (edit this as a C++ file)</li>
   <li>Pin-out: PIN5, PIN6, PIN9, PIN10</li>
 </ul>
 
